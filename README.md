@@ -5,9 +5,9 @@ Coursera_Getting-and-Cleaning-Data
 This repository contains the 3rd weeks assignment of the Coursera "Getting and Cleaning Data" course. 
 
 #Assignment Submission Files
-* [run_analysis.R](https://github.com/chrdietz/Coursera_Getting-and-Cleaning-Data/run_analysis.R)
-* [README.md](https://github.com/chrdietz/Coursera_Getting-and-Cleaning-Data/README.md)
-* [CookBook.md](https://github.com/chrdietz/Coursera_Getting-and-Cleaning-Data/CodeBook.md)
+* [run_analysis.R](https://github.com/chrdietz/Coursera_Getting-and-Cleaning-Data/blob/master/run_analysis.R)
+* [README.md](https://github.com/chrdietz/Coursera_Getting-and-Cleaning-Data/blob/master/README.md)
+* [CookBook.md](https://github.com/chrdietz/Coursera_Getting-and-Cleaning-Data/blob/master/CodeBook.md)
 
 
 #Prerequisits
@@ -17,7 +17,7 @@ This repository contains the 3rd weeks assignment of the Coursera "Getting and C
 2) Extract the raw data to a folder of your choice ( your_working_directory)
 
 3) Download the script run_analysis.R into the data to the same folder.
-You can find the script under: https://github.com/chrdietz/Coursera_Getting-and-Cleaning-Data/run_analysis.R) 
+You can find the script under: https://github.com/chrdietz/Coursera_Getting-and-Cleaning-Data/blob/master/run_analysis.R) 
 
 4) Check that your working environment looks like follows:
 
