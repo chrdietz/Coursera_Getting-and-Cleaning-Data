@@ -21,22 +21,22 @@ You can find the script under: https://github.com/chrdietz/Coursera_Getting-and-
 
 4) Check that your working environment looks like follows:
 
-your_working_directory
---test
-----subject_test.txt
-----X_test.txt
-----y_test.txt
-----Inertial Signals
---train
-----subject_train.txt
-----X_train.txt
-----y_train.txt
-----Inertial Signals
---activity_labes.txt
---features.txt
---features_info.txt
---REANDME.txt
---run_analysis.R
+*your_working_directory
+  *test
+    *subject_test.txt
+    *X_test.txt
+    *y_test.txt
+    *Inertial Signals
+  *train
+    *subject_train.txt
+    *X_train.txt
+    *y_train.txt
+    *Inertial Signals
+  *activity_labes.txt
+  *features.txt
+  *features_info.txt
+  *REANDME.txt
+  *run_analysis.R
 
 5) load the script run_analysis.R in RStudio
 
